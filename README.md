@@ -1,5 +1,5 @@
 # DCG Software Value - Agile Competency Development (ACD) 
-This project was done as part of my senior project in a group of five (5) people, using the Agile SCRUM methodolgy. 
+This project was done as part of my senior project in a group of five (5) people, using the Agile SCRUM methodolgy. <br/>
 All properties belong to DCG Software Value
 
 Below is the description of the project. 
