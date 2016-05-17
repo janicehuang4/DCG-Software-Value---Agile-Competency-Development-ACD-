@@ -1,0 +1,23 @@
+ table{
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+ th, td {
+     text-align: left;
+     padding: 16px 8px 16px 8px;
+     color: black;
+ }
+
+ tr{
+    background-color: #e0e0eb;
+ }
+
+ th {
+ 	 text-align: center;
+     background-color: #006699;
+     color: white;
+ }
+
+/* td:hover {
+     background-color: #006699; 
+ }*/
