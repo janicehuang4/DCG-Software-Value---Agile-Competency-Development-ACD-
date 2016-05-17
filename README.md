@@ -2,7 +2,8 @@
 
 This was done as part of the Pennsylvania State University Captsone Senior Project for the Spring 2016 semester, which spanned from January 11 to April 29. This project was done in a group of five (5), using the Agile SCRUM methodolgy. 
 
-<b> **This is a copy of a private repository owned by DCG Software Value. This project (on my part) has come to a stop </b>
+<b> **This is a copy of a private repository owned by DCG Software Value. This project (on my part) has come to an end.
+All intellectual property rights belongs to DCG Software Value. </b>
 
 Below is the description of the project:
 
